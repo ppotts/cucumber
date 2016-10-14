@@ -15,7 +15,7 @@ Git:
 
 Subversion:
 
-    svn checkout https://github.com/ppotts/cucumber/trunk cucumber-java-skeleton
+    svn checkout https://github.com/ppotts/cucumber/master cucumber-java-skeleton
     cd cucumber
 
 ## Use Gradle
